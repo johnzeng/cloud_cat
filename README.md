@@ -1,1 +1,2 @@
-# cloud_cat
+# hello-world
+Hello world new project template.
